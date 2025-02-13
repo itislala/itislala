@@ -1,3 +1,5 @@
 # Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=itislala)](https://github.com/itislala/github-readme-stats)
+<img alt="itislala stats" align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=itislala&show_icons=true"/>
+
+<img alt="itislala lang" align="right" width="49%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=itislala&layout=compact"/>
