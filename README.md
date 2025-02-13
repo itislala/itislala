@@ -1,30 +1,18 @@
-<h1> ☆ 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 </h1> 
-<h2> profile and contact </h2>
-
----
-<img alt="itislala stats" align="left" width="52%" src="https://github-readme-stats.vercel.app/api?username=itislala&theme=onedark&show_icons=true"/>
-<img alt="itislala lang" align="right" width="43%" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=itislala&layout=compact&theme=onedark"/>
-
-<h3 align="left">Languages</h3>
+<h1 align="left">☆ 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧</h1>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-</div>
+<h4 align="center">About me</h4>
 
 ###
 
-<h3 align="left">Tools</h3>
+<p align="left">• ✨ Hi, my name is Lais and I'm 20 years old<br>• 🕹️I'm a digital game development student<br>• 📖 At this moment, I'm working on my portfolio<br>• 🖥️ My goal is to become an intern</p>
 
 ###
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itislala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itislala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
