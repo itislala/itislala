@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">ABOUT ME</h3>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -10,9 +10,9 @@
 
 ###
 
-<h3 align="center">CONTACT ME!</h3>
+<h3 align="left">Contact me</h3>
 
-<div align="center">
+<div align="left">
   <a href="https://itislala.itch.io/">
     <img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itchio">
   </a>
@@ -26,20 +26,21 @@
 
 ---
 
-<div align="center">
+<h1 align="left">𝐌𝐨𝐫𝐞 𝐢𝐧𝐟𝐨</h1>
+
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=itislala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1&custom_title=My%20stats" height="165" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itislala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2&custom_title=Main%20languages" height="94" alt="languages graph"  />
 </div>
 
 ###
 
----
 
-<h3 align="center">Languages and tools</h3>
+<h3 align="left">Languages and tools</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=cs" height="55" alt="csharp logo"  />
   <img width="19" />
   <img src="https://skillicons.dev/icons?i=py" height="55" alt="python logo"  />
